@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|c:\\users\\micael sanchez\\source\\repos\\gestionf1.web\\gestionf1.web\\views\\piloto\\listarpilotos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|solutionrelative:gestionf1.web\\views\\piloto\\listarpilotos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|c:\\users\\micael sanchez\\source\\repos\\gestionf1.web\\gestionf1.web\\views\\piloto\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|solutionrelative:gestionf1.web\\views\\piloto\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|c:\\users\\micael sanchez\\source\\repos\\gestionf1.web\\gestionf1.web\\controllers\\pilotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|solutionrelative:gestionf1.web\\controllers\\pilotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|c:\\users\\micael sanchez\\source\\repos\\gestionf1.web\\gestionf1.web\\ef\\formula1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|solutionrelative:gestionf1.web\\ef\\formula1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|c:\\users\\micael sanchez\\source\\repos\\gestionf1.web\\gestionf1.web\\ef\\escuderium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|solutionrelative:gestionf1.web\\ef\\escuderium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|c:\\users\\micael sanchez\\source\\repos\\gestionf1.web\\gestionf1.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|solutionrelative:gestionf1.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|c:\\users\\micael sanchez\\source\\repos\\gestionf1.web\\gestionf1.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|solutionrelative:gestionf1.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|c:\\users\\micael sanchez\\source\\repos\\gestionf1.web\\gestionf1.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{486EE84A-54BC-488E-8FB3-F64B03FC988D}|GestionF1.Web\\GestionF1.Web.csproj|solutionrelative:gestionf1.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestionF1.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestionF1.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T18:38:03.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GestionF1.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "GestionF1.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T18:24:41.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\Program.cs",
+              "RelativeDocumentMoniker": "GestionF1.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\Program.cs",
+              "RelativeToolTip": "GestionF1.Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T00:51:21.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Escuderium.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\EF\\Escuderium.cs",
+              "RelativeDocumentMoniker": "GestionF1.Web\\EF\\Escuderium.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\EF\\Escuderium.cs",
+              "RelativeToolTip": "GestionF1.Web\\EF\\Escuderium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T23:32:51.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Formula1Context.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\EF\\Formula1Context.cs",
+              "RelativeDocumentMoniker": "GestionF1.Web\\EF\\Formula1Context.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\EF\\Formula1Context.cs",
+              "RelativeToolTip": "GestionF1.Web\\EF\\Formula1Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T21:56:31.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarPilotos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\Views\\Piloto\\ListarPilotos.cshtml",
+              "RelativeDocumentMoniker": "GestionF1.Web\\Views\\Piloto\\ListarPilotos.cshtml",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\Views\\Piloto\\ListarPilotos.cshtml",
+              "RelativeToolTip": "GestionF1.Web\\Views\\Piloto\\ListarPilotos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T21:48:34.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agregar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\Views\\Piloto\\Agregar.cshtml",
+              "RelativeDocumentMoniker": "GestionF1.Web\\Views\\Piloto\\Agregar.cshtml",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\Views\\Piloto\\Agregar.cshtml",
+              "RelativeToolTip": "GestionF1.Web\\Views\\Piloto\\Agregar.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T19:49:18.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PilotoController.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\Controllers\\PilotoController.cs",
+              "RelativeDocumentMoniker": "GestionF1.Web\\Controllers\\PilotoController.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\GestionF1.Web\\GestionF1.Web\\Controllers\\PilotoController.cs",
+              "RelativeToolTip": "GestionF1.Web\\Controllers\\PilotoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T19:28:30.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

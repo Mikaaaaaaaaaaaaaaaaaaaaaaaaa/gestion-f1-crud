@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Agregar Piloto";
+}
+
+<style>
+    body {
+    color: black;
+    font-family: 'Montserrat';
+    }
+
+    label {
+    margin-right: 7px;
+    }
+
+    form {
+    display: flex;
+    gap: 15px;
+    align-items: flex-start;
+    flex-direction: column;
+    }
+
+    button {
+    border: none;
+    border: 2px solid black;
+    background-color: yellow;
+    border-radius: 5px;
+    box-shadow: 3px 3px 0px 0px #00000057;
+    }
+
+    input#NombrePiloto {
+    border: 2px solid black;
+    border-radius: 5px;
+    }
+
+    select#IdEscuderia {
+    border: 2px solid black;
+    border-radius: 5px;
+    }
+
+
+</style>
+
+
+<h2>AGREGAR PILOTO</h2>
+
+<form asp-action="AgregarPiloto" method="post">
+    <div>
+        <label>Nombre del piloto: </label>
+        <input type="text" id="NombrePiloto" name="NombrePiloto" required/>
+    </div>
+
+    <div>
+        <label for="IdEscuderia">Escudería: </label>
+        <select id="IdEscuderia" name="IdEscuderia" asp-items="ViewBag.Escuderias" required>
+            <option value="">Seleccione una escudería</option>
+        </select>
+    </div>
+
+    <button type="submit">AGREGAR PILOTO</button>
+</form>
